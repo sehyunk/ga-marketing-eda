@@ -46,5 +46,6 @@ order by date
 4. 일자 별 분석
    - 인사이트
 
+[nb 뷰어에서 보기](https://nbviewer.jupyter.org/github/sehyunk/ga-marketing-eda/blob/master/ga-marketing-eda.ipynb)
 
 
